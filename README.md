@@ -4,10 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,20:7928ca,40:2afadf,60:00c6ff,80:0072ff,100:00ff87&height=320&section=header&text=PSJ-LABS&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36" />
 
 <!-- MAIN IDENTITY -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1400&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=Practical+Security+Labs+%26+PoC+Documentation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1400&pause=1000&color=22C55E&center=true&vCenter=true&width=900&height=55&lines=Practical+Security+Labs+%26+PoC+Documentation" />
 
 <!-- TERMINAL STYLE ID -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1400&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=900&height=70&lines=$+whoami;security+lab+builder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1400&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=900&height=70&lines=$+whoami;Security+Learner" />
 <!-- FOCUS BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Web%20Security-0b1220?style=for-the-badge&logo=OWASP&logoColor=white" />
