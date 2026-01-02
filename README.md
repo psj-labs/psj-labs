@@ -15,8 +15,6 @@
 
 <!-- GITHUB ACTIVITY (MINIMAL, MEANINGFUL ONLY) -->
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=psj-labs&show_icons=true&hide_title=true&hide_border=true&hide=issues,prs,contribs&bg_color=0b1220&text_color=cbd5e1&icon_color=22c55e" />
-  
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=psj-labs&hide_border=true&background=0B1220&ring=22C55E&fire=F97316&currStreakNum=FFFFFF&sideNums=CBD5E1&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B" />
 </p>
 
